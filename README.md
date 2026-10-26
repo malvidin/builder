@@ -12,7 +12,7 @@ sudo ./install.sh
 
 ### Dependencies/Requirements:
 1. Docker
-2. docker-py
+2. Docker Python SDK
 
 ### Sample Ability
 
